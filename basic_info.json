@@ -1,0 +1,27 @@
+{
+
+    "inscope":[
+         {"url":"hackers.upchieve.org"},
+
+         {"url":"argocd.upchieve.org"}
+        
+    ],
+
+    "outscope":[
+
+        "app.upchieve.org",
+
+        "upchieve.org"
+
+    ],
+    "users":[
+
+        {"type":"students"},
+        
+        {"type":"volunter"},
+
+        {"type":"admin"}
+
+    ]
+
+}
